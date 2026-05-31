@@ -4,4 +4,4 @@ Tiva C Connected Launchpad board from Texas Instruments can be used to program t
 <img width="800" height="640" alt="Image" src="https://github.com/user-attachments/assets/2c6f1e12-5dac-4e40-9f5b-25abc2c1c3c7" />
 
 **System Architecture:**
-<img width="1853" height="1042" alt="Image" src="https://github.com/user-attachments/assets/3719cc2f-21a4-46df-8fd7-fbb6654be2ad" />
+<img width="1853" height="1042" alt="Image" src="https://github.com/user-attachments/assets/1b023623-3c05-4ead-953a-9616668ab608" />
